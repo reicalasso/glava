@@ -18,6 +18,11 @@
 
 #ifndef GLFFT_INTERFACE_HPP__
 #define GLFFT_INTERFACE_HPP__
+#include <error.h>
+#include <cstdio>
+#include <cerrno>
+#include <stdexcept>
+
 
 #include <memory>
 
